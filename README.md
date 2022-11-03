@@ -1,3 +1,3 @@
-# html5_css3_primeiros_passos
+# html5_css3_posicionamento_listas_navegacao
 
-## Projeto do curso 'HTML5 e CSS3 parte 1: crie uma página da Web' na Alura
+## Projeto do curso 'HTML5 e CSS3 parte 2: posicionamento, listas e navegação' na Alura
